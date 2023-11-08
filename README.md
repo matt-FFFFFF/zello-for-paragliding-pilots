@@ -28,7 +28,7 @@ Hardware requried:
 - A bluetooth headset and mic (existing airpods, etc. work fine but please disable noise cancellation)
 - A modern smartphone
 
-Process
+Process:
 
 1. Download the Zello app and create an account
 2. Pair the PTT button in Settings -> push-to-talk buttons
