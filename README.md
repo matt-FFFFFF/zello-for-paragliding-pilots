@@ -24,7 +24,7 @@ Disadvantages of Zello over traditional walkie-talkies:
 
 Hardware requried:
 
-- A bluetooth PTT button (searh for Zello Button on Ali Express/eBay)
+- A bluetooth PTT button (searh for "zello button" on Ali Express/eBay)
 - A bluetooth headset and mic (existing airpods, etc. work fine but please disable noise cancellation)
 - A modern smartphone
 
