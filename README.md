@@ -3,9 +3,8 @@
 ## Introduction
 
 Zello is a modern and customizable walkie-talkie app (and more) that lives on any smart device.
-
-Zello is a software application and uses a device's data connection or WiFi to transmit and receive voice data.
-It is comparable to the voice message feature of many modern messaging apps, but Zello is much faster and easier to use for pilots.
+It a software application that uses a device's data connection or WiFi to transmit and receive voice data.
+It is comparable to the voice message feature of many modern messaging apps, but Zello is much faster and easier to use for pilots whilst flying.
 
 Advantages of Zello over traditional walkie-talkies:
 
@@ -25,7 +24,7 @@ Disadvantages of Zello over traditional walkie-talkies:
 Hardware requried:
 
 - A bluetooth PTT button (searh for "zello button" on Ali Express/eBay)
-- A bluetooth headset and mic (existing airpods, etc. work fine but please disable noise cancellation)
+- A bluetooth headset and mic (existing airpods, etc. work fine but please disable noise cancellation whilst flying)
 - A modern smartphone
 
 Process:
